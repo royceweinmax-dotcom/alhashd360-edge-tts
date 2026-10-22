@@ -1,0 +1,7 @@
+{
+  "name": "alhashd360-edge-tts-service",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "node-edge-tts": "1.2.11" }
+}
